@@ -1,2 +1,2 @@
-# Python
-30 days of python
+#Python Programming
+3000 days of python
